@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calendar-react-typescript/static/css/main.4f611f7a.chunk.css",
+    "main.js": "/calendar-react-typescript/static/js/main.dc26b46b.chunk.js",
+    "main.js.map": "/calendar-react-typescript/static/js/main.dc26b46b.chunk.js.map",
+    "runtime-main.js": "/calendar-react-typescript/static/js/runtime-main.5103f26f.js",
+    "runtime-main.js.map": "/calendar-react-typescript/static/js/runtime-main.5103f26f.js.map",
+    "static/js/2.6aee8c05.chunk.js": "/calendar-react-typescript/static/js/2.6aee8c05.chunk.js",
+    "static/js/2.6aee8c05.chunk.js.map": "/calendar-react-typescript/static/js/2.6aee8c05.chunk.js.map",
+    "static/js/3.5f3c19f7.chunk.js": "/calendar-react-typescript/static/js/3.5f3c19f7.chunk.js",
+    "static/js/3.5f3c19f7.chunk.js.map": "/calendar-react-typescript/static/js/3.5f3c19f7.chunk.js.map",
+    "index.html": "/calendar-react-typescript/index.html",
+    "static/css/main.4f611f7a.chunk.css.map": "/calendar-react-typescript/static/css/main.4f611f7a.chunk.css.map",
+    "static/js/2.6aee8c05.chunk.js.LICENSE.txt": "/calendar-react-typescript/static/js/2.6aee8c05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5103f26f.js",
+    "static/js/2.6aee8c05.chunk.js",
+    "static/css/main.4f611f7a.chunk.css",
+    "static/js/main.dc26b46b.chunk.js"
+  ]
+}
