@@ -1,4 +1,5 @@
 {
+  "homepage": "https://akylik.github.io/calendar-react-typescript",
   "name": "react-redux-typescript-practic",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +37,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/react": "^17.0.15",
+    "gh-pages": "^3.2.3",
+    "moment": "^2.29.1",
+    "moment-range": "^4.0.2",
+    "typescript": "^4.3.5"
   }
 }
